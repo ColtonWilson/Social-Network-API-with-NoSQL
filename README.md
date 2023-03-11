@@ -28,12 +28,18 @@ Insomnia would be required in order to use GET, POST, PUT and DELETE.
 Insomnia can be downloaded [Here](https://docs.insomnia.rest/insomnia/get-started)  
   
 MongoDB will also be used and can be downloaded [HERE](https://coding-boot-camp.github.io/full-stack/mongodb/how-to-install-mongodb)  
+
+Seeds can be included to start off application with:  
+`npm run seed`
    
 To run code in terminal use:  
 `npm start`
 ## Usage
 
-picture and video here
+Walkthrough Video can be found [HERE](https://github.com/ColtonWilson/Social-Network-API-with-NoSQL/blob/main/public/images/Walkthrough_Video.webm)
+<br>
+Note: Video is too large for Github to load, but should be able to view raw or inside of Visual Studio Code. 
+![screenshot of working app](https://github.com/ColtonWilson/Social-Network-API-with-NoSQL/blob/main/public/images/working%20code.png)
 
 ## Contributing
 
